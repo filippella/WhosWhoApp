@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WhosWhoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="viewTeam">Click Here to view the Team</string>
+    <string name="title">Meet the team</string>
+
+</resources>
